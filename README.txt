@@ -1,0 +1,1 @@
+g++ graph.cpp -o main -std=c++14

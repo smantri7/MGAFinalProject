@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1553744244 source:d:\computerscience\cse\stoerwagner\stoerwagner\graph.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	<vector>
+	<fstream>
+	<sstream>
+	<set>
+	<bits/stdc++.h>
+	<algorithm>
+	<stack>
+	"edge.cpp"
+	<omp.h>
+
+1552358045 d:\computerscience\cse\stoerwagner\stoerwagner\edge.cpp
+
